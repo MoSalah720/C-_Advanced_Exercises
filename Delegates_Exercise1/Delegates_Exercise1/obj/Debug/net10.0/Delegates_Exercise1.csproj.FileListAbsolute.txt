@@ -1,0 +1,14 @@
+C:\Users\Delta\source\repos\Delegates_Exercise1\Delegates_Exercise1\bin\Debug\net10.0\Delegates_Exercise1.exe
+C:\Users\Delta\source\repos\Delegates_Exercise1\Delegates_Exercise1\bin\Debug\net10.0\Delegates_Exercise1.deps.json
+C:\Users\Delta\source\repos\Delegates_Exercise1\Delegates_Exercise1\bin\Debug\net10.0\Delegates_Exercise1.runtimeconfig.json
+C:\Users\Delta\source\repos\Delegates_Exercise1\Delegates_Exercise1\bin\Debug\net10.0\Delegates_Exercise1.dll
+C:\Users\Delta\source\repos\Delegates_Exercise1\Delegates_Exercise1\bin\Debug\net10.0\Delegates_Exercise1.pdb
+C:\Users\Delta\source\repos\Delegates_Exercise1\Delegates_Exercise1\obj\Debug\net10.0\Delegates_Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delta\source\repos\Delegates_Exercise1\Delegates_Exercise1\obj\Debug\net10.0\Delegates_Exercise1.AssemblyInfoInputs.cache
+C:\Users\Delta\source\repos\Delegates_Exercise1\Delegates_Exercise1\obj\Debug\net10.0\Delegates_Exercise1.AssemblyInfo.cs
+C:\Users\Delta\source\repos\Delegates_Exercise1\Delegates_Exercise1\obj\Debug\net10.0\Delegates_Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Delta\source\repos\Delegates_Exercise1\Delegates_Exercise1\obj\Debug\net10.0\Delegates_Exercise1.dll
+C:\Users\Delta\source\repos\Delegates_Exercise1\Delegates_Exercise1\obj\Debug\net10.0\refint\Delegates_Exercise1.dll
+C:\Users\Delta\source\repos\Delegates_Exercise1\Delegates_Exercise1\obj\Debug\net10.0\Delegates_Exercise1.pdb
+C:\Users\Delta\source\repos\Delegates_Exercise1\Delegates_Exercise1\obj\Debug\net10.0\Delegates_Exercise1.genruntimeconfig.cache
+C:\Users\Delta\source\repos\Delegates_Exercise1\Delegates_Exercise1\obj\Debug\net10.0\ref\Delegates_Exercise1.dll
