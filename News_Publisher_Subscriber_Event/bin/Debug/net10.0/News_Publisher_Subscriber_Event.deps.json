@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "News_Publisher_Subscriber_Event/1.0.0": {
+        "runtime": {
+          "News_Publisher_Subscriber_Event.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "News_Publisher_Subscriber_Event/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

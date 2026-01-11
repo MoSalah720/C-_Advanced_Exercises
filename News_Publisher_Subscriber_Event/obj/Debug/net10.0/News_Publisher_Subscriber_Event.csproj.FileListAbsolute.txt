@@ -1,0 +1,14 @@
+C:\Users\Delta\source\repos\News_Publisher_Subscriber_Event\bin\Debug\net10.0\News_Publisher_Subscriber_Event.exe
+C:\Users\Delta\source\repos\News_Publisher_Subscriber_Event\bin\Debug\net10.0\News_Publisher_Subscriber_Event.deps.json
+C:\Users\Delta\source\repos\News_Publisher_Subscriber_Event\bin\Debug\net10.0\News_Publisher_Subscriber_Event.runtimeconfig.json
+C:\Users\Delta\source\repos\News_Publisher_Subscriber_Event\bin\Debug\net10.0\News_Publisher_Subscriber_Event.dll
+C:\Users\Delta\source\repos\News_Publisher_Subscriber_Event\bin\Debug\net10.0\News_Publisher_Subscriber_Event.pdb
+C:\Users\Delta\source\repos\News_Publisher_Subscriber_Event\obj\Debug\net10.0\News_Publisher_Subscriber_Event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delta\source\repos\News_Publisher_Subscriber_Event\obj\Debug\net10.0\News_Publisher_Subscriber_Event.AssemblyInfoInputs.cache
+C:\Users\Delta\source\repos\News_Publisher_Subscriber_Event\obj\Debug\net10.0\News_Publisher_Subscriber_Event.AssemblyInfo.cs
+C:\Users\Delta\source\repos\News_Publisher_Subscriber_Event\obj\Debug\net10.0\News_Publisher_Subscriber_Event.csproj.CoreCompileInputs.cache
+C:\Users\Delta\source\repos\News_Publisher_Subscriber_Event\obj\Debug\net10.0\News_Publisher_Subscriber_Event.dll
+C:\Users\Delta\source\repos\News_Publisher_Subscriber_Event\obj\Debug\net10.0\refint\News_Publisher_Subscriber_Event.dll
+C:\Users\Delta\source\repos\News_Publisher_Subscriber_Event\obj\Debug\net10.0\News_Publisher_Subscriber_Event.pdb
+C:\Users\Delta\source\repos\News_Publisher_Subscriber_Event\obj\Debug\net10.0\News_Publisher_Subscriber_Event.genruntimeconfig.cache
+C:\Users\Delta\source\repos\News_Publisher_Subscriber_Event\obj\Debug\net10.0\ref\News_Publisher_Subscriber_Event.dll
