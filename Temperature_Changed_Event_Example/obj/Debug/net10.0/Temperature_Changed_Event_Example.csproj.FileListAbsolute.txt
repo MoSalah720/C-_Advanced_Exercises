@@ -1,0 +1,14 @@
+C:\Users\Delta\source\repos\Temperature_Changed_Event_Example\bin\Debug\net10.0\Temperature_Changed_Event_Example.exe
+C:\Users\Delta\source\repos\Temperature_Changed_Event_Example\bin\Debug\net10.0\Temperature_Changed_Event_Example.deps.json
+C:\Users\Delta\source\repos\Temperature_Changed_Event_Example\bin\Debug\net10.0\Temperature_Changed_Event_Example.runtimeconfig.json
+C:\Users\Delta\source\repos\Temperature_Changed_Event_Example\bin\Debug\net10.0\Temperature_Changed_Event_Example.dll
+C:\Users\Delta\source\repos\Temperature_Changed_Event_Example\bin\Debug\net10.0\Temperature_Changed_Event_Example.pdb
+C:\Users\Delta\source\repos\Temperature_Changed_Event_Example\obj\Debug\net10.0\Temperature_Changed_Event_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delta\source\repos\Temperature_Changed_Event_Example\obj\Debug\net10.0\Temperature_Changed_Event_Example.AssemblyInfoInputs.cache
+C:\Users\Delta\source\repos\Temperature_Changed_Event_Example\obj\Debug\net10.0\Temperature_Changed_Event_Example.AssemblyInfo.cs
+C:\Users\Delta\source\repos\Temperature_Changed_Event_Example\obj\Debug\net10.0\Temperature_Changed_Event_Example.csproj.CoreCompileInputs.cache
+C:\Users\Delta\source\repos\Temperature_Changed_Event_Example\obj\Debug\net10.0\Temperature_Changed_Event_Example.dll
+C:\Users\Delta\source\repos\Temperature_Changed_Event_Example\obj\Debug\net10.0\refint\Temperature_Changed_Event_Example.dll
+C:\Users\Delta\source\repos\Temperature_Changed_Event_Example\obj\Debug\net10.0\Temperature_Changed_Event_Example.pdb
+C:\Users\Delta\source\repos\Temperature_Changed_Event_Example\obj\Debug\net10.0\Temperature_Changed_Event_Example.genruntimeconfig.cache
+C:\Users\Delta\source\repos\Temperature_Changed_Event_Example\obj\Debug\net10.0\ref\Temperature_Changed_Event_Example.dll
